@@ -18,7 +18,7 @@ Conducted statistical analysis using R, discovering a correlation between age an
 <br>
 ### Github Statistic<br>
 <p align="left">
-<a href="https://github.com/penuliscode">
+<a href="https://github.com/hwangzie">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hwangzie&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hwangzie&layout=compact&theme=algolia"/>
 </a>
