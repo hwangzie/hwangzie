@@ -7,7 +7,7 @@ I am a Data-Driven Informatics Engineering student at Tanjungpura University wit
 🎓 Education<br>
 Universitas Tanjungpura, Pontianak, Indonesia<br>
 Bachelor Degree in Informatics Engineering (Expected April 2026)<br>
-Third Place in the Competitive Programming Contest (2023), Faculty of Engineering, UNTAN<br>
+Second Place in the Competitive Programming Contest (2024), Faculty of Engineering, UNTAN<br>
 <br>
 💡 Projects
 UniFi Network Installation and QoS Implementation<br>
