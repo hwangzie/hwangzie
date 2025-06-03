@@ -10,7 +10,7 @@ Bachelor Degree in Informatics Engineering (Expected April 2026)<br>
 ICPC Asia Jakarta Contestant (2024), Jakarta, BINUS<br>
 Second Place in the Competitive Programming Contest (2024), Faculty of Engineering, UNTAN<br>
 <br>
-💡 Projects
+💡 Projects<br>
 Machine Learning Implementation at Nusantara Beta Studio<br>
 Developed a machine learning model and generated training data to build an automated system for verifying mobile screens in a device-selling app.<br>
 UniFi Network Installation and QoS Implementation<br>
