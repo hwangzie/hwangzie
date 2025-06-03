@@ -11,6 +11,8 @@ ICPC Asia Jakarta Contestant (2024), Jakarta, BINUS<br>
 Second Place in the Competitive Programming Contest (2024), Faculty of Engineering, UNTAN<br>
 <br>
 💡 Projects
+Machine Learning Implementation at Nusantara Beta Studio<br>
+Developed a machine learning model and generated training data to build an automated system for verifying mobile screens in a device-selling app.<br>
 UniFi Network Installation and QoS Implementation<br>
 Improved network performance at Universitas Tanjungpura’s Environmental Engineering Lab by installing and configuring a Ubiquiti UniFi network with QoS for critical applications.<br>
 <br>
