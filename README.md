@@ -35,6 +35,13 @@ Informatics Engineering graduate from **Universitas Tanjungpura**. I turn techni
 - 🧠 AI Engineer Cohort, Pijak × IBM SkillsBuild
 - 💼 Backend Developer & Network Lab Assistant, Universitas Tanjungpura
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hwangzie/hwangzie/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hwangzie/hwangzie/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/hwangzie/hwangzie/output/github-snake.svg" />
+</picture>
+
 ## 📈 Stats
 
 <p align="center">
